@@ -1,4 +1,4 @@
-package code;
+package lesson1.code;
 
 interface Moveable {
     default void move(){

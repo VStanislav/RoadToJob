@@ -1,4 +1,4 @@
-package code;
+package lesson1.code;
 
 public class Race {
     public static void main(String[] args) {

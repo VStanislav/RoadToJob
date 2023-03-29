@@ -1,4 +1,4 @@
-package builder;
+package lesson1.builder;
 
 class TestBuilder {
     public static void main(String[] args) {
