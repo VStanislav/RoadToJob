@@ -7,6 +7,10 @@
     <groupId>com.voronkov</groupId>
     <artifactId>lessons</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>lesson6</module>
+    </modules>
 
     <properties>
         <maven.compiler.source>18</maven.compiler.source>
